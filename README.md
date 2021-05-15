@@ -2,9 +2,13 @@
 ---
 대한민국에 거주하는 개발자일까요?
 
-## Main Languages
+## 📜Main Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.oracle.com/kr/java/technologies/javase-downloads.html/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
  </a>
+ 
+ ## 📞Contect
+ [email](sean34418290@gmail.com)
+ discord : 이지성(코양이)#8314
 
 ![](https://img.shields.io/github/followers/easycastle?style=social)
 
