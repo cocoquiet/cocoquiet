@@ -2,9 +2,8 @@
 ---
 Just Student Developer
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&title_color=ffd1dc&icon_color=ffd1dc)](https://github.com/easycastle)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easycastle&layout=compact&title_color=ffd1dc&icon_color=ffd1dc)](https://github.com/easycastle)
+[![easycastle's github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&theme=dracula)](https://github.com/easycastle)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easycastle&layout=compact&langs_count=8&theme=dracula)](https://github.com/easycastle)
 
 ## 📜Main Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
