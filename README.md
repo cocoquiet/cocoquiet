@@ -2,6 +2,10 @@
 ---
 대한민국에 거주하는 개발자일까요?
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&title_color=ffd1dc&icon_color=ffd1dc)](https://github.com/easycastle)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easycastle&layout=compact&title_color=ffd1dc&icon_color=ffd1dc)](https://github.com/easycastle)
+
 ## 📜Main Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://www.oracle.com/kr/java/technologies/javase-downloads.html/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
  </a>
