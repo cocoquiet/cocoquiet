@@ -15,7 +15,7 @@ Just Student Developer
  ## 📞Contact
  * Mail : [sean34418290@gmail.com](sean34418290@gmail.com)
  * discord : 이지성(코양이)#8314
-<a href="https://www.instagram.com/code._.cat"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+ * <a href="https://www.instagram.com/code._.cat"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ![](https://img.shields.io/github/followers/easycastle?style=social)
 
