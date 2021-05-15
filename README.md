@@ -1,6 +1,6 @@
 # easycaslte : Maybe Programmer
 ---
-대한민국에 거주하는 개발자일까요?
+Just Student Developer
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&title_color=ffd1dc&icon_color=ffd1dc)](https://github.com/easycastle)
 
