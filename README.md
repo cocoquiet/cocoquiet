@@ -7,8 +7,8 @@
  </a>
  
  ## 📞Contect
- [email](sean34418290@gmail.com)
- discord : 이지성(코양이)#8314
+ * Mail : [sean34418290@gmail.com](sean34418290@gmail.com)
+ * discord : 이지성(코양이)#8314
 
 ![](https://img.shields.io/github/followers/easycastle?style=social)
 
