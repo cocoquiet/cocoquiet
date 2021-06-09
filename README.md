@@ -1,6 +1,5 @@
 # easycaslte : Maybe Programmer
 ---
-Just Student Developer
 
 [![easycastle's github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&theme=dracula)](https://github.com/easycastle)
 
