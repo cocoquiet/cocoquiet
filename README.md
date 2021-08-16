@@ -6,7 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easycastle&layout=compact&langs_count=8&theme=dracula)](https://github.com/easycastle)
 
 ## 📜Main Languages
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <a href="https://www.oracle.com/kr/java/technologies/javase-downloads.html/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
  </a>
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-373737?style=flat-square&logo=C&logoColor=white"/></a>
