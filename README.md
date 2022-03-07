@@ -13,7 +13,7 @@
  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-373737?style=flat-square&logo=C&logoColor=white"/></a>
  
  ## 📞Contact
- * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sean34418290@gmail.com)](mailto:sean34418290@gmail.com)
+ * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:cocoquiet@knu.ac.kr)
  * discord : 이지성(코양이)#8314
  * <a href="https://www.instagram.com/code._.cat"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
