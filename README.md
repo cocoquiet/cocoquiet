@@ -14,7 +14,7 @@
  
  ## 📞Contact
  * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:cocoquiet@knu.ac.kr)
- * <a href="https://www.instagram.com/co._.yang03/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+ * <a href="https://www.instagram.com/easy_sng03/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 [![Github Followers](https://img.shields.io/github/followers/easycastle?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/easycastle?tab=followers)
 
