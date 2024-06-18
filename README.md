@@ -1,9 +1,9 @@
 # CoCoQuiet
 ---
 
-[![easycastle's github stats](https://github-readme-stats.vercel.app/api?username=easycastle&show_icons=true&theme=dracula)](https://github.com/easycastle)
+[![cocoquiet's github stats](https://github-readme-stats.vercel.app/api?username=cocoquiet&show_icons=true&theme=dracula)](https://github.com/cocoquiet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easycastle&layout=compact&langs_count=8&theme=dracula)](https://github.com/easycastle)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoquiet&layout=compact&langs_count=8&theme=dracula)](https://github.com/cocoquiet)
 
 ## 📜Main Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -16,6 +16,6 @@
  * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:cocoquiet@knu.ac.kr)
  * <a href="https://www.instagram.com/easy_sng03/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-[![Github Followers](https://img.shields.io/github/followers/easycastle?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/easycastle?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/cocoquiet?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/cocoquiet?tab=followers)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feasycastle&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcocoquiet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
