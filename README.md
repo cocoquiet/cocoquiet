@@ -6,11 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoquiet&layout=compact&langs_count=8&theme=dracula)](https://github.com/cocoquiet)
 
 ## 📜Main Languages
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://www.oracle.com/kr/java/technologies/javase-downloads.html/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
- </a>
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-373737?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+
  
  ## 📞Contact
  * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:cocoquiet@knu.ac.kr)
