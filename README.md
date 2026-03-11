@@ -1,9 +1,10 @@
 # CoCoQuiet
 ---
-
+<div align="center">
 [![cocoquiet's github stats](https://github-readme-stats.vercel.app/api?username=cocoquiet&show_icons=true&theme=dracula)](https://github.com/cocoquiet)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocoquiet)](https://solved.ac/cocoquiet) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocoquiet&langs_count=8&layout=compact&theme=dark)](https://github.com/cocoquiet)
+</div>
 
 ## 📜Main Languages
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
