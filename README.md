@@ -1,6 +1,6 @@
 # CoCoQuiet
 ---
-[![cocoquiet's github stats](https://github-readme-stats.vercel.app/api?username=cocoquiet&show_icons=true&theme=dracula)](https://github.com/cocoquiet)
+[![cocoquiet's github stats](https://github-readme-stats-fast.vercel.app/api?username=cocoquiet&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocoquiet)](https://solved.ac/cocoquiet)
 </br>
@@ -10,5 +10,5 @@
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
  
  ## 📞Contact
- * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:cocoquiet@knu.ac.kr)
+ * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cocoquiet@knu.ac.kr)](mailto:dev.jiseong@gmail.com)
  * <a href="https://www.instagram.com/easy_sng03/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/code._.cat/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
